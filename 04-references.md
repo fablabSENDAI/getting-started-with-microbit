@@ -42,6 +42,10 @@ nav_order: 4
 
   →MIT museumにも作品が収蔵されている著名なオートマタ作家。金属パーツを使った精度の高い作品を制作している。
 
+* **松本秋則 \(**[**LINK**](https://www.youtube.com/playlist?list=PLfKD_Y1dDg6CzbRZm-NIUqMNBouLvblPd)**\)**
+
+    →竹や和紙を組み合わせて、風や水の流れ(時にはモーターも)を動力に音を出すインスタレーションを多数制作している
+
 * **507 Mechanical Movements \(**[**LINK**](http://507movements.com/)**\)**
 
   →507種類の機械機構を閲覧できるウェブページ。色付きの図はGifアニメとして動く！
