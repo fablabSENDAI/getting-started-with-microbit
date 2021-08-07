@@ -34,7 +34,7 @@ nav_order: 4
 
   →WaterExperimentと基本的な構造は同じでありながら、全く違う見せ方の例
 
-* **原田和明 \(**[**LINK**](https://www.instagram.com/kazu_automata/?utm_source=ig_embed)**\)**
+* **原田和明 \(**[**LINK**](https://www.youtube.com/user/automatamaker)**\)**
 
   →オートマタ作家、原田和明氏のinstagram。大量のオートマタ動画が上がっている。ウェブページ\([LINK](http://nizo.jp/?cat=36)\)にも作品リスト有り。
 
