@@ -46,15 +46,30 @@ nav_order: 4
 
     →竹や和紙を組み合わせて、風や水の流れ(時にはモーターも)を動力に音を出すインスタレーションを多数制作している
 
+* **メカニカル７セグディスプレイ \(**[**LINK**](https://fablabsendai-flat.com/2019/11/04/mechanical7seg_jp/)**\)**
+
+    →エンジニアtsuchita氏の作ったオートマタ、精密な動きと素材のセレクトが素晴らしい。
+
+* **マーブルマシン \(**[**LINK**](https://www.youtube.com/c/denha)**\)**
+
+    →小さくて緻密なマーブルマシンで有名なdenha氏のYouTubeチャンネル。
+
+
 * **507 Mechanical Movements \(**[**LINK**](http://507movements.com/)**\)**
 
   →507種類の機械機構を閲覧できるウェブページ。色付きの図はGifアニメとして動く！
 
+  * **Spur Gear Generator \(**[**LINK**](https://evolventdesign.com/pages/spur-gear-generator)**\)**
+
+    →歯車のベクターデータをダウンロードすることができるウェブアプリ。(無料)
+
 * **Gear Generator \(**[**LINK**](https://geargenerator.com/)**\)**
 
-  →歯車のベクターデータをダウンロードすることができるウェブアプリ。
+  →歯車のベクターデータをダウンロードすることができるウェブアプリ。(有料)
 
 * **Hige Dance \(**[**LINK**](https://vimeo.com/158605622)**\)**
+
+* **Cornwall \(**[**LINK**](https://vimeo.com/198322137)**\)**
 
 ## パーツ屋さん
 
