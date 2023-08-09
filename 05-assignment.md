@@ -2,7 +2,6 @@
 layout: default
 title: 課題
 nav_order: 5
-has_children: true
 ---
 
 # 課題　『オートマタ：役に立たないが楽しい動きを設計する』
